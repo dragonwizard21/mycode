@@ -1,0 +1,4 @@
+"Model", "Model#", "OS", "Main Gateway", "IP"
+"Catalyst", "9400", "15M&T", "eth0/0", "1.0.0.1"
+"Catalyst", "9300", "Fuji 16.9", "eth0/1", "2.0.0.1"
+"Nexus", "9000", "9.3", "eth1/1", "3.0.0.1"
